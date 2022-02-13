@@ -1,2 +1,7 @@
 # cs-obb-collision
-Oriented Bounding Box collision detection algorithm using Separating Axis Theorem as foundation. It's quite organized and, although the custom Polygon class only renders it's edge, I am proud of it.
+Algoritmo de detecção de colisão OBB usando SAT.
+O programa só tem uma interface que permite o usuário interagir com as formas e as posicionar e rotacionar pra ver
+o algoritmo em ação, além da implementação do algoritmo em si.
+Por mais simples que tenha ficado, eu o achei bem organizado (exceto o loop principal, não quis usar ECS pra uma coisa que *era* pra ser pequena) e, no geral, estou orgulhoso.
+
+É isso.
