@@ -8,7 +8,7 @@ Por mais simples que tenha ficado, eu o achei bem organizado (exceto o loop prin
 
 # Instruções de execução
 
-> É necessário ter instalado o [.NET](https://dotnet.microsoft.com/en-us/download)
+> É necessário ter instalado o [.NET 5](https://dotnet.microsoft.com/en-us/download)
 
 - Clone o repositório com ```git clone https://github.com/gabrielLV-BR/cs-obb-collision.git```
 - Acesse a pasta com ```cd cs-obb-collision```
